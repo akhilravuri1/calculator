@@ -1,3 +1,3 @@
-module github.com/akhilravuri1/calculator/v2
+module github.com/akhilravuri1/calculator
 
 go 1.16
